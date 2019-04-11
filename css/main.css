@@ -236,6 +236,10 @@ footer .copyright {
 /*hero area */
 
 .hero-area {
+  background: url(../img/unplugged/hero.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 500px;
   display: flex;
   justify-content: center;
   flex-flow: row wrap;
